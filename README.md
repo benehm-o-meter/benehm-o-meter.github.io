@@ -1,11 +1,11 @@
 ## Hast du es satt, dass dein Kind nie sein Zimmer aufräumt? 
-> Damit ist jetzt Schluss!
+# Damit ist jetzt Schluss!
 > 
 ![www.benehm-o-meter.de](assets/laptop-tablet-phone-pc.png)
 
 
 ### Vielleicht vergisst du auch manchmal dein Kind zu loben, wenn es ohne zu murren die Zähne geputzt hat?
-> Jetzt nicht mehr!
+# Jetzt nicht mehr!
 
 Denn jetzt gibt es das mobile Verhaltensmessgerät, das [benehm-O-meter].
 
