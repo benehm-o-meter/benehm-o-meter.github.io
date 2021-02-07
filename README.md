@@ -51,7 +51,7 @@ Viel Spaß und Erfolg mit dem [benehm-O-meter]!
 
 Das [benehm-O-meter] wird von Grund auf neu aufgebaut.
 
-- 2021-02-07 : Das **benehm-O-meter** ist bald wieder für euch da!
+- 2021-02-07 : Das [benehm-O-meter] ist bald wieder für euch da!
   > Wir arbeiten an einem kompletten re-launch!
 
   [benehm-O-meter]:https://www.benehm-o-meter.de
