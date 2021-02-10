@@ -78,7 +78,7 @@
     position: absolute;
     width: 100%;
     left: 0;
-    top: 65%;
+    top: 55%;
 }
 
 
@@ -100,7 +100,7 @@
     margin-top: 5px;
     text-align: center;
     background-color: var(--app-color-primary);
-    color: var(--gauge-point-color);
+    color: var(--text-color);
     left: 0;
     top: 75%;
     font-size: 3vmax;
