@@ -29,7 +29,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-UwgpwjCHmUhISv5eMMiYhjnJhBAudE0gLHyB4B\/kLpQ=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
       "BloodOrange.dll": "sha256-UDoMHNEXibV3TvY00rQgNqPZae5KttqfA3sKsC0cvpU=",
-      "BloodOrange.Web.App.dll": "sha256-208EzXQIo38hW5AJHf4q0oB9a0Y5XjlcXGkPjSAL2Gw=",
+      "BloodOrange.Web.App.dll": "sha256-cIPLzi5Q2XHEHYY6ZAXYpKEeULXggIVvRxaJ3w50ATE=",
       "System.Collections.Concurrent.dll": "sha256-6P3GVa7vY2DMrH\/mrDmUeHOPCQ1m+zackhT\/eIhauPc=",
       "System.Collections.Immutable.dll": "sha256-04\/K0Nxo9n+XS994FwhRsYdS2eRkakj6WZqhBzEiZms=",
       "System.Collections.NonGeneric.dll": "sha256-5a24E5FSVUO0NhmlFEpbZ9Puj+5j6oBJkxMGWxUtdc0=",
@@ -49,7 +49,7 @@
       "System.Text.Encodings.Web.dll": "sha256-yVGG4rPIwoN9ThthROJkr5M8yr4TAP\/ExtenQs8S3vg=",
       "System.Text.Json.dll": "sha256-EdvFWkvl0P6EufNnPiLnydNLQYO2SkPb8sC0IMIqpro=",
       "System.Text.RegularExpressions.dll": "sha256-ujrHqN8w+RtLOX+qzHDajTsxa8TuuvDwKvQOlsL6dCQ=",
-      "System.Private.CoreLib.dll": "sha256-2dzEH4D7F25WW\/YeYpOclM8OcfLLTVqkm87bYnUIVBQ="
+      "System.Private.CoreLib.dll": "sha256-W\/clYdiH4zeF0v\/Ld9HLSGsY9DU\/\/Ofmu1s1xk35eds="
     },
     "lazyAssembly": null,
     "pdb": null,
