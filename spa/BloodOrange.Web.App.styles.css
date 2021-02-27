@@ -76,14 +76,14 @@
     position: absolute;
     width: 100%;
     left: 0;
-    top: 55%;
+    top: 65%;
 }
 
 
 .points[b-dtss6u3683] {
     text-align: center;
     text-align: center;
-    font-size: 2vmax;
+    font-size: 3vmax;
     color: var(--gauge-point-color);
 }
 
@@ -137,44 +137,6 @@
         overflow: hidden;
         text-overflow: ellipsis;
     }
-
-@media (max-width: 640.98px) {
-    .top-row:not(.auth)[b-58vocm9fd5] {
-        display: none;
-    }
-
-    .top-row.auth[b-58vocm9fd5] {
-        justify-content: space-between;
-    }
-
-    .top-row a[b-58vocm9fd5], .top-row .btn-link[b-58vocm9fd5] {
-        margin-left: 0;
-    }
-}
-
-@media (min-width: 641px) {
-    .page[b-58vocm9fd5] {
-        flex-direction: row;
-    }
-
-    .sidebar[b-58vocm9fd5] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
-    }
-
-    .top-row[b-58vocm9fd5] {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .main > div[b-58vocm9fd5] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
-}
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-9elqziga1w] {
     background-color: rgba(255, 255, 255, 0.1);
@@ -226,15 +188,4 @@
 .nav-item[b-9elqziga1w]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
-}
-
-@media (min-width: 641px) {
-    .navbar-toggler[b-9elqziga1w] {
-        display: none;
-    }
-
-    .collapse[b-9elqziga1w] {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
-    }
 }
