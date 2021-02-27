@@ -1,10 +1,7 @@
 /* /Shared/Gauge.razor.rz.scp.css */
 
 .content[b-dtss6u3683] {
-    position: relative;
-    left: 10%;
-    width: 80%;
-    height: 80%;
+
 }
 
 .background[b-dtss6u3683] {
@@ -18,9 +15,9 @@
 
 .needle[b-dtss6u3683] {
     position: absolute;
-    width:90%;
-    left: 5%;
-    top: 5%;
+    width: 80%;
+    left: 10%;
+    top: 10%;
 }
 
 
@@ -86,7 +83,7 @@
 .points[b-dtss6u3683] {
     text-align: center;
     text-align: center;
-    font-size: 4vmax;
+    font-size: 2vmax;
     color: var(--gauge-point-color);
 }
 
@@ -104,7 +101,7 @@
     color: var(--text-color);
     left: 17%;
     top: 80%;
-    font-size: 3vmax;
+    font-size: 2vmax;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-58vocm9fd5] {
