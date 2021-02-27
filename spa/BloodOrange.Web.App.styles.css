@@ -1,3 +1,111 @@
+/* /Shared/Gauge.razor.rz.scp.css */
+
+.content[b-dtss6u3683] {
+    position: relative;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+}
+
+.background[b-dtss6u3683] {
+    position: relative;
+}
+
+.background__content[b-dtss6u3683] {
+    width: 100%;
+    height: 100%;
+}
+
+.needle[b-dtss6u3683] {
+    position: absolute;
+    width:90%;
+    left: 5%;
+    top: 5%;
+}
+
+
+.hitzone[b-dtss6u3683] {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.hitzone__left[b-dtss6u3683] {
+    width: 50%;
+}
+.hitzone__right[b-dtss6u3683] {
+    float:right;
+    width: 50%;
+    left:50%;
+}
+
+.needle--animate-true[b-dtss6u3683] {
+    animation: needle--animate-true-b-dtss6u3683 .25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation-fill-mode: both;
+}
+
+.needle--animate-false[b-dtss6u3683] {
+    animation: needle--animate-false-b-dtss6u3683 .25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    animation-fill-mode: both;
+}
+
+@keyframes needle--animate-true-b-dtss6u3683 {
+    from {
+        transform: rotate(var(--rotation-begin));
+    }
+    to {
+        transform: rotate(var(--rotation-end));
+    }
+}
+
+@keyframes needle--animate-false-b-dtss6u3683 {
+    from {
+        transform: rotate(var(--rotation-begin));
+    }
+    to {
+        transform: rotate(var(--rotation-end));
+    }
+}
+
+.needle__content[b-dtss6u3683] {
+    width: 100%;
+    height: 100%;
+}
+
+
+.label[b-dtss6u3683] {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 55%;
+}
+
+
+.points[b-dtss6u3683] {
+    text-align: center;
+    text-align: center;
+    font-size: 4vmax;
+    color: var(--gauge-point-color);
+}
+
+
+.points__content[b-dtss6u3683] {
+    width: 100%;
+}
+
+.text[b-dtss6u3683] {
+    position: absolute;
+    width: 66%;
+    margin-top: 5px;
+    text-align: center;
+    background-color: var(--app-color-primary);
+    color: var(--text-color);
+    left: 17%;
+    top: 80%;
+    font-size: 3vmax;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-58vocm9fd5] {
     position: relative;
@@ -6,6 +114,7 @@
 }
 
 .main[b-58vocm9fd5] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
     flex: 1;
 }
 
