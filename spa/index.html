@@ -18,31 +18,36 @@
         height: 80px;
       }
 
-      .lds-ellipsis div {
-        position: absolute;
-        top: 33px;
-        width: 13px;
-        height: 13px;
-        border-radius: 50%;
-        background: #02013F;
-        animation-timing-function: cubic-bezier(0, 1, 1, 0);
-      }
-      .lds-ellipsis div:nth-child(1) {
-        left: 8px;
-        animation: lds-ellipsis1 0.6s infinite;
-      }
-      .lds-ellipsis div:nth-child(2) {
-        left: 8px;
-        animation: lds-ellipsis2 0.6s infinite;
-      }
-      .lds-ellipsis div:nth-child(3) {
-        left: 32px;
-        animation: lds-ellipsis2 0.6s infinite;
-      }
-      .lds-ellipsis div:nth-child(4) {
-        left: 56px;
-        animation: lds-ellipsis3 0.6s infinite;
-      }
+        .lds-ellipsis div {
+          position: absolute;
+          top: 33px;
+          width: 13px;
+          height: 13px;
+          border-radius: 50%;
+          background: #FFFFFF;
+          animation-timing-function: cubic-bezier(0, 1, 1, 0);
+        }
+
+          .lds-ellipsis div:nth-child(1) {
+            left: 8px;
+            animation: lds-ellipsis1 0.6s infinite;
+          }
+
+          .lds-ellipsis div:nth-child(2) {
+            left: 8px;
+            animation: lds-ellipsis2 0.6s infinite;
+          }
+
+          .lds-ellipsis div:nth-child(3) {
+            left: 32px;
+            animation: lds-ellipsis2 0.6s infinite;
+          }
+
+          .lds-ellipsis div:nth-child(4) {
+            left: 56px;
+            animation: lds-ellipsis3 0.6s infinite;
+          }
+
       @keyframes lds-ellipsis1 {
         0% {
           transform: scale(0);
@@ -52,6 +57,7 @@
           transform: scale(1);
         }
       }
+
       @keyframes lds-ellipsis3 {
         0% {
           transform: scale(1);
@@ -61,6 +67,7 @@
           transform: scale(0);
         }
       }
+
       @keyframes lds-ellipsis2 {
         0% {
           transform: translate(0, 0);
@@ -73,19 +80,25 @@
 
       .aligncenter {
         text-align: center;
+        width: 100%;
+      }
+
+      .loader {
+        top: -100px
       }
     </style>
 </head>
 
-<body>
+<body style="background-color:darkblue">
   <div id="app">
     <div class="aligncenter">
-      <img style="width:320px" src="loading-spa.png" />
+      <div>
+        <img style="width:320px;" src="loading-spa.png" />
+      </div>
+      <div class="loader">
+        <div class="lds-ellipsis loader"><div></div><div></div><div></div><div></div></div>
+      </div>
     </div>
-    <div class="aligncenter">
-      <div class="lds-ellipsis aligncenter"><div></div><div></div><div></div><div></div></div>
-    </div>
-
   </div>
 
   <div id="blazor-error-ui">

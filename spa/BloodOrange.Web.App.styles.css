@@ -104,12 +104,12 @@
 }
 
 .main[b-58vocm9fd5] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-color:darkblue;
     flex: 1;
 }
 
 .sidebar[b-58vocm9fd5] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-color: darkblue;
 }
 
 .top-row[b-58vocm9fd5] {
