@@ -265,7 +265,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-IBtRJyCAFTrEt6DU\/gl2acmVT\/rQhGdFgXs34vn2rvk=",
+      "hash": "sha256-Z\/YuZ3JyyneRU\/29Scj7\/BoPT2uas+O4LrEgXew4WMA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -317,7 +317,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
-      "hash": "sha256-ZXJi9\/BfHO0PuBZzR3QnbJ0xj45RUAK1bOBg\/Zoh3ug=",
+      "hash": "sha256-dzz8cJl79JopVIPKUQqaU3BC+AkAfFNk9v13ro2ozDU=",
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
@@ -373,7 +373,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-KNYtdX5Pfz2eR2VG8DLbfYPVrY6xk1Z7a4utFlt8IyQ=",
+      "hash": "sha256-fnPMhE3CPjPi2NTZgt\/aTlAJbASPj53kde2a2Ng\/PWE=",
       "url": "_framework\/Mood.Client.wasm"
     },
     {
@@ -485,7 +485,7 @@
       "url": "appsettings.Development.json"
     },
     {
-      "hash": "sha256-GTISy7542Vkj3Bdpbm4xShVJp\/2UFr2pVxS\/amW88Ko=",
+      "hash": "sha256-g1rIkMQFYGPitKQtzkB2TkjNFP4FU5MRwWSFM4X\/VWs=",
       "url": "appsettings.json"
     },
     {
@@ -501,5 +501,5 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     }
   ],
-  "version": "FSCLjZCp"
+  "version": "tToQhklY"
 };
