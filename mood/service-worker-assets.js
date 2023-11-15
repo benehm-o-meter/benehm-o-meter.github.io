@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-pvt7c4WogNyvRfmYqGHpoc8Nwk9vTu5p89jwWyTjJY4=",
+      "hash": "sha256-CW0ubNL6JO9rZ7Y3FrDZXy3BwunXL96b+qzLSqsiAWc=",
       "url": "404.html"
     },
     {
@@ -29,7 +29,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-pvt7c4WogNyvRfmYqGHpoc8Nwk9vTu5p89jwWyTjJY4=",
+      "hash": "sha256-CW0ubNL6JO9rZ7Y3FrDZXy3BwunXL96b+qzLSqsiAWc=",
       "url": "index.html"
     },
     {
@@ -73,7 +73,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-PPcPtLURxKw89nOoMsMpbsqlgqmlKHp7s32Jdl0SFlQ=",
+      "hash": "sha256-2HSc\/jphw2MaVBg4BmOLeQV1Pq9hbhE7Sa3Y72Uwyeo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-annZguQ1soaUK3rjVud5uDWDAqcEYowOiPuac1Vz6oE=",
+      "hash": "sha256-mPYGUgECJXOhmbmVAjWhG7xq3G0YyXQQEn\/J2KkiSXA=",
       "url": "_framework\/Mood.Client.wasm"
     },
     {
@@ -273,5 +273,5 @@
       "url": "_content\/Microsoft.Authentication.WebAssembly.Msal\/AuthenticationService.js"
     }
   ],
-  "version": "RgGh\/GgE"
+  "version": "\/HyJuD6m"
 };
